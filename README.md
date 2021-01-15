@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **abdulm0id/abdulm0id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,18 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+<p align="center"> <img src="https://sdtimes.com/wp-content/uploads/2017/03/swift-og.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" height="160px" width="160px"></p>
 
 <h1 align="center">Hi there, I'm <a href="https://umar0x01.sh"  target="_blank">Abdul Moid!</a> 👋</h1>
     
-<h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!</h3>
+<h3 align="center">I am an enthusiastic programmer who loves to explore and learn new things!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anon-Exloiter&style=flat&color=blueviolet" alt=umararfeen/> </p>
 
-```python3
-import os
+```swift5
+import Foundation
 
-def greet():
-    print(f"Welcome {os.popen('whoami').read().strip()}!! 👋")
+func greet() {
+    print("Hola!")
+}
 ```
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anon-Exploiter&count_private=true&show_icons=true&theme=radical" alt=umararfeen /> </p>
