@@ -4,7 +4,7 @@ I am a computer science engineer having experience working and learning in the f
 
 
 
-- 🔭 I’m currently working on Swift, ObjC, DataBase Modeling and flutter.
+- 🔭 I’m currently working on Swift, SwiftUI, DataBase Modeling and flutter.
 - ⚡ Currently Working with <a href="https://allstartech.net/">All Star Technology</a>
 
 ### 📫 Reach me at 
